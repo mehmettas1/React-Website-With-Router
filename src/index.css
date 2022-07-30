@@ -209,7 +209,7 @@
   }
   
   .banner {
-    /* background-image: url(../images/showcase.jpg); */
+    background-image:url(../src/assets/img/showcase.jpg);
     height: 400px;
     background-position: center center;
     background-size: cover;
